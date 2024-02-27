@@ -1,3 +1,4 @@
+import data from "./data.json" assert { type: "json" };
 const boxHTML = document.querySelector(".box");
 
 function createTabsComponent(container, config) {
@@ -40,7 +41,4 @@ function createTabsComponent(container, config) {
   });
 }
 
-createTabsComponent(boxHTML, [
-  { label: "Dane", content: "opisach" },
-  { label: "Opis", content: "ZASADY" },
-]);
+createTabsComponent(boxHTML, data);

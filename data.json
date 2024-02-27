@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Laptop",
+    "content": "Najnowszy laptop z serii Ultrabook, wyposażony w procesor Intel Core i7, 16 GB pamięci RAM oraz dysk SSD o pojemności 512 GB. Zapewnia wysoką wydajność i mobilność."
+  },
+  {
+    "label": "Smartfon",
+    "content": "Nowoczesny smartfon z ekranem o przekątnej 6.5 cala, wyposażony w potrójny aparat o rozdzielczości 48 MP, baterię o pojemności 5000 mAh oraz szybki procesor Snapdragon. Idealny do fotografowania, multimediów i codziennego użytkowania."
+  },
+  {
+    "label": "Tablet",
+    "content": "Wygodny tablet z ekranem dotykowym o przekątnej 10 cali, z systemem Android 11, 8 GB pamięci RAM i 128 GB pamięci wewnętrznej. Doskonały do pracy zdalnej, oglądania filmów i przeglądania internetu."
+  },
+  {
+    "label": "Smartwatch",
+    "content": "Elegancki smartwatch z wytrzymałym korpusem ze stali nierdzewnej i wysokiej jakości paskiem z tworzywa sztucznego. Wyposażony w funkcje monitorowania aktywności, pomiaru pulsu oraz powiadomienia o wiadomościach i połączeniach."
+  },
+  {
+    "label": "Aparat cyfrowy",
+    "content": "Profesjonalny aparat cyfrowy z matrycą o rozdzielczości 24 MP, obiektywem zmiennoogniskowym i możliwością nagrywania wideo w rozdzielczości 4K. Idealny dla pasjonatów fotografii i filmowania."
+  },
+  {
+    "label": "Słuchawki bezprzewodowe",
+    "content": "Wygodne słuchawki bezprzewodowe z technologią redukcji hałasu, długim czasem pracy na baterii i wysokiej jakości dźwiękiem. Doskonałe do słuchania muzyki i prowadzenia rozmów telefonicznych."
+  },
+  {
+    "label": "Router WiFi",
+    "content": "Wydajny router WiFi obsługujący standardy 802.11ac oraz 802.11ax, z możliwością obsługi wielu urządzeń jednocześnie i zapewnieniem stabilnego i szybkiego połączenia internetowego w całym domu."
+  },
+  {
+    "label": "Drukarka laserowa",
+    "content": "Profesjonalna drukarka laserowa z szybkim drukiem w kolorze i czerni oraz funkcją skanowania i kopiowania. Doskonała do pracy biurowej i domowej."
+  },
+  {
+    "label": "Konsola do gier",
+    "content": "Najnowsza konsola do gier z obsługą rozdzielczości 4K, wbudowanym dyskiem twardym o pojemności 1 TB i możliwością grania w najnowsze tytuły gier w wysokiej jakości grafice."
+  },
+  {
+    "label": "Odkurzacz robot",
+    "content": "Inteligentny odkurzacz robot z systemem nawigacji laserowej, czujnikami antykolizyjnymi i funkcją planowania trasy. Sprawia, że sprzątanie domu staje się łatwe i wygodne."
+  }
+]
